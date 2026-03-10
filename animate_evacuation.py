@@ -167,7 +167,7 @@ def main():
 
     # ── Assemble plotter ─────────────────────────────────────────────────────
     plt = vedo.Plotter(
-        title = "Crawford Building — Evacuation Simulation",
+        title = "Evacuation Simulation",
         size  = (1280, 720),
         bg    = "#f5f5f0",
         bg2   = "#ddeeff",
